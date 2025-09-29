@@ -1,2 +1,2 @@
-ContactTest.class
-ContactManagerTest.class
+com\example\addressbook\ContactManagerTest.class
+com\example\addressbook\ContactTest.class

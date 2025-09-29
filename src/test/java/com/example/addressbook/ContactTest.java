@@ -1,3 +1,5 @@
+package com.example.addressbook;
+
 import com.example.addressbook.model.Contact;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

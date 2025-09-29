@@ -1,3 +1,4 @@
+package com.example.addressbook;
 
 import com.example.addressbook.model.Contact;
 import com.example.addressbook.model.ContactManager;
